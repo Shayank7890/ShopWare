@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.thecodereveal</groupId>
-	<artifactId>shopease</artifactId>
+	<artifactId>shopware</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>shopease</name>
+	<name>shopware</name>
 	<description>E-commerce Application</description>
 	<url/>
 	<licenses>
